@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RealTimeLocationUpdate</string>
+
+    <string name="title">Get user location updates repeatedly after 3 minutes even not using the app.</string>
+    <string name="start_btn">Start Location Service</string>
+    <string name="stop_btn">Stop Location Service</string>
 </resources>
